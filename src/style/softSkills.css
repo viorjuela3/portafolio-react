@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --orange-light: #E8B92CCC;
+    --blue-light: #7ED8F2CC;
+    --blue-sky: #09A1CDCC;
+    --sm: 1.0rem;
+    --md: 1.6rem;
+    --lg: 1.8rem;
+
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.content-title-softSkills{
+    padding: 10px 0 10px 13%;
+}
+
+.content-title-softSkills a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: var(--md);
+    display: flex;
+    gap: 1rem;
+}
+
+.img-skills{
+    width: 50px;
+}
+
+.softskills-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0 20px 0 20px;
+}
+
+.softskills-description{
+    font-size: var(--md);
+    text-align: center;
+    
+}
+
+.softskills-list ul{
+    list-style: none;
+    line-height: 2.6rem;
+    font-size: var(--md);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.softskills-list li{
+    display: flex;
+    align-items: center;
+    
+}
+.cuadro-descriptivo {
+    padding-right: 10px;
+    height: 10px;
+}
