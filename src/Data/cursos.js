@@ -2,7 +2,7 @@ export const cursosData = [
     {
         id:1,
         title:"HTML Y CSS", 
-        image: "https://raw.githubusercontent.com/viorjuela3/mi-portafolio-react/3bed4082bbf004b58b687a011d2e9f70c2510ff0/my-app/src/img/tetromino1.svg",
+        image: "https://raw.githubusercontent.com/viorjuela3/portafolio-react/c9489806bd868a23464c2566978fed496dd7c700/src/img/tetromino5.svg",
         cursos:[
             "Front End Developer Course",
             "Practical Frontend Developer Course",
@@ -10,16 +10,14 @@ export const cursosData = [
             "HTML and CSS Practical Course",
             "Responsive Design Course: Mobile First Layout",
             "Basic CSS Grid Course"
-
         ]
-
-        
+ 
     },
 
     {
         id:2,
         title:"Programming Fundamentals", 
-        image: "../img/Tetromino4.svg",
+        image: "https://raw.githubusercontent.com/viorjuela3/portafolio-react/c9489806bd868a23464c2566978fed496dd7c700/src/img/tetromino4.svg",
         cursos:[
             "Basic Programming Course",
             "Logical Thinking Course: Algorithms and Flowcharts",
@@ -30,7 +28,6 @@ export const cursosData = [
             "Prework Course: Configuring Development Environment in Windows",
             "Introduction to Terminal and Command Line Course",
             "CodeStream Modern Development Flow Course"
-
         ]
         
     },
@@ -38,29 +35,23 @@ export const cursosData = [
     {
         id:3,
         title:"English", 
-        image: "../img/Tetromino6.svg",
+        image: "https://raw.githubusercontent.com/viorjuela3/portafolio-react/c9489806bd868a23464c2566978fed496dd7c700/src/img/tetromino6.svg",
         cursos:[
             "Literacy Comprehension Of Texts In English",
             "English dot works Beginner",
             "English dot works 1",
-            "English don works 2"
-            
-
+            "English don works 2"  
         ]
         
     },
-
-    
+ 
     {
         id:4,
         title:"Others", 
-        image: "../img/Tetromino7.svg",
+        image: "https://raw.githubusercontent.com/viorjuela3/portafolio-react/c9489806bd868a23464c2566978fed496dd7c700/src/img/tetromino7.svg",
         cursos:[
             "Management of tools Microsoft Office 2016: Excel",
             "Management of Microsoft office Tools: Word"
-            
-            
-
         ]
         
     }

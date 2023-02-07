@@ -34,19 +34,4 @@ const Cursos = ({ data }) => {
   );
 };
 
-//   const ListaDeCursos = () => {
-//     return (
-//         <div>
-
-//         {listaDeCursos.map((curso) => (
-//             <Cursos
-//             key={curso.title}
-//             imageCurso={curso.image}
-//             titleCurso={curso.title}
-//             className="img-curso"
-//             />
-//         ))}
-//         </div>
-//     );
-// };
 export default Cursos;

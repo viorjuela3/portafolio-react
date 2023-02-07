@@ -1,18 +1,10 @@
 import React from "react";
 import "../style/objectives.css";
-
 import Tetromino3 from "../img/tetromino3.svg";
-import Tetromino4 from "../img/tetromino4.svg";
-import Tetromino5 from "../img/Tetromino5.png";
-import Tetromino6 from "../img/tetromino6.svg";
-import Tetromino7 from "../img/tetromino7.svg";
 import {cursosData} from "../Data/cursos";
 import Cursos from "../componentes/Cursos";
 
 const Objectives = () => {
-
-  // console.log(cursosData);
-
   return (
     <div className="objectives-container">
       <div className="objectives-intro">
