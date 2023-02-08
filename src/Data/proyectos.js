@@ -1,9 +1,11 @@
+import Sabujcha from "../img/Sabujcha.jpg";
+
 export const proyectosData = [
     {
         id:1,
         title:"Sabujcha", 
         description:"Web design",
-        image: "../img/Sabujcha.svg" 
+        image: {Sabujcha} 
     },
 
     {

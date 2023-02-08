@@ -2,6 +2,8 @@ import React from "react";
 import "../style/projects.css";
 import Tetromino8 from '../img/tetromino8.svg';
 import FlechaAbajo from "../img/flecha-hacia-abajo.png";
+import Proyectos from "./Proyectos";
+import { proyectosData } from "../Data/proyectos";
 
 
 
