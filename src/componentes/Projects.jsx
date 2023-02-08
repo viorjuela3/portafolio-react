@@ -26,9 +26,12 @@ const Objectives = () => {
                
                 <Proyectos data={proyectosData}/>
 
-                <img className="arrow-right" src={FlechaAbajo} alt="arrow right"/>
-
             </div>
+
+            <div className="arrow-right">
+                <img src={FlechaAbajo} alt="arrow right"/>
+            </div>
+            
 
         </div>
     );

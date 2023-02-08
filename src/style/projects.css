@@ -51,8 +51,11 @@ html {
 
 .projects-container-cards{
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 2rem;
+    
+   
 }
 
 .projects-card{
@@ -99,6 +102,10 @@ html {
 }
 
 .arrow-right{
+    display: flex;
+    justify-content: center;
+}
+.arrow-right img{
     width: 45px;
     height: 35px;
     
