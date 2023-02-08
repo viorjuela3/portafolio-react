@@ -1,11 +1,9 @@
-import Sabujcha from "../img/Sabujcha.jpg";
-
 export const proyectosData = [
     {
         id:1,
         title:"Sabujcha", 
         description:"Web design",
-        image: {Sabujcha} 
+        image: "https://raw.githubusercontent.com/viorjuela3/portafolio-react/master/src/img/Sabujcha.jpg" 
     },
 
     {
